@@ -6,4 +6,4 @@ for i in range(1,len(num),2):
     sum = num[i] + sum
     count += 1
 
-print(sum, sum/count)
+print(sum, round(sum/count,1))

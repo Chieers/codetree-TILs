@@ -11,4 +11,4 @@ for i in range(2, len(num),3):
     count += 1
 
 
-print(sum, round(sum1/count,0))
+print(sum, round(sum1/count,1))
